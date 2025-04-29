@@ -1,0 +1,14 @@
+D:\test\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\bin\Debug\InterviewConsole.exe.config
+D:\test\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\bin\Debug\InterviewConsole.exe
+D:\test\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\bin\Debug\InterviewConsole.pdb
+D:\test\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\obj\Debug\InterviewConsole.csproj.AssemblyReference.cache
+D:\test\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\obj\Debug\InterviewConsole.csproj.CoreCompileInputs.cache
+D:\test\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\obj\Debug\InterviewConsole.exe
+D:\test\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\obj\Debug\InterviewConsole.pdb
+D:\test\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\bin\Debug\ApplicationInsights.config
+D:\test\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\bin\Debug\EmployeeService.dll
+D:\test\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\bin\Debug\EmployeeService.pdb
+D:\test\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\bin\Debug\EmployeeService.dll.config
+D:\test\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\obj\Debug\Intervie.C402BC22.Up2Date
+D:\test\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\bin\Debug\Newtonsoft.Json.dll
+D:\test\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\bin\Debug\Newtonsoft.Json.xml

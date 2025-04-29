@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{864DE593-43E7-402D-A654-DF50058D2BBA}|InterviewConsole\\InterviewConsole.csproj|D:\\test\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\interviewconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864DE593-43E7-402D-A654-DF50058D2BBA}|InterviewConsole\\InterviewConsole.csproj|solutionrelative:interviewconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|d:\\test\\interviewconsolebackup.new\\interviewconsolebackup\\employeeservice\\employeeservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\employeeservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.svc.cs",
+              "DocumentMoniker": "D:\\test\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\EmployeeService.svc.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\EmployeeService.svc.cs",
+              "ToolTip": "D:\\test\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\EmployeeService.svc.cs",
+              "RelativeToolTip": "EmployeeService\\EmployeeService.svc.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:41:10.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\test\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\InterviewConsole\\Program.cs",
+              "RelativeDocumentMoniker": "InterviewConsole\\Program.cs",
+              "ToolTip": "D:\\test\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\InterviewConsole\\Program.cs*",
+              "RelativeToolTip": "InterviewConsole\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T13:06:12.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
